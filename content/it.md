@@ -7,7 +7,7 @@ summary: IT
 # Information Technology Portfolio
 ## Machine Learning
 - [Human Freedom Index analysis: G20 'Safest' Countries in 2020](https://github.com/cabridgeman/HFI-Analysis) (descriptive statistics, supervised learning and unsupervised learning with python)
-- [Spotify: Genre Classification and Popularity Regression](https://www.kaggle.com/work/collections/13547302)
+- [Spotify: Genre Classification and Popularity Regression](/spotifyclass.pdf)
 
 ## Data Analysis & Visualisation
 - [Worker Representation in Policymaking and Support for European Integration](/ugdiss.pdf) (longitudinal multiple linear regression and visualisation)
