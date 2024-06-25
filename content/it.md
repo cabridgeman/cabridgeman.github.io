@@ -8,6 +8,8 @@ summary: IT
 ## Machine Learning
 - [Human Freedom Index analysis: G20 'Safest' Countries in 2020](https://github.com/cabridgeman/HFI-Analysis) (descriptive statistics, supervised learning and unsupervised learning with python)
 - [Spotify: Genre Classification and Popularity Regression](/spotifyclass.pdf)
+- [Image Classification with convolutional neural networks](/imageclassification.pdf)
+- [Newspaper article category classification with neural networks](/nnarticles.pdf)
 
 ## Data Analysis & Visualisation
 - [Worker Representation in Policymaking and Support for European Integration](/ugdiss.pdf) (longitudinal multiple linear regression and visualisation)
