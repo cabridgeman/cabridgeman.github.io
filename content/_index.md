@@ -4,9 +4,9 @@ title: Home
 
 # Christy A. Bridgeman
 
-![header](/header.jpg)
+![header](/pano.jpg)
 
-**Hello**, I am Christopher Bridgeman -- data scientist, policy analyst and publicist. 
+![headshot](/headshot.jpg) **Hello**, I am Christopher Bridgeman -- data scientist, policy analyst and publicist. 
 
 I am a postgraduate MSc in Data Science for Politics and Policymaking student at the University of Strathclyde with an undergraduate MA in Politics and Philosophy from the University of Aberdeen including classes at Stockholm University. I also have professional training with the Data Lab Academy in Scotland.
 
