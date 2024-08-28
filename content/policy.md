@@ -6,6 +6,7 @@ summary: Policy
 
 # Public Policy Portfolio
 
+- [Gradual Quick Wins? Analysis of Functional Alignment through the UK’s Shared Services Strategy for Government](/pgdiss.pdf) (longitudinal multivariate linear regression and econometrics)
 - [Worker Representation in Policymaking and Support for European Integration](/ugdiss.pdf) (longitudinal multiple linear regression and visualisation)
 - [The Development of the EU's Digital Services Act and Digital Markets Act](/eu-dsa-development.pdf) (empirical and theoretical analysis of an expanded Multiple Streams Framework (MSF))
 - [Public Administration Capacity and Support for the EU:
