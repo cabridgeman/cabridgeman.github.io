@@ -18,7 +18,7 @@ summary: IT
 
 
 ## Geographic Information Systems
- - Cateran Trail Accessibility Map for [NatureScot](https://www.nature.scot/) ([Scotland's Great Trails](https://www.scotlandsgreattrails.com/))
+ - [Cateran Trail Accessibility Map](https://cabridgeman.github.io/cateran-trail-web-map/) for [NatureScot](https://www.nature.scot/) ([Scotland's Great Trails](https://www.scotlandsgreattrails.com/))
  - [River Tay Way Accessibility Map](https://cabridgeman.github.io/cateran-trail-web-map/)
 - [Kirkmichael Path Network spatial data](/kirkmichael.pdf)
 
