@@ -30,5 +30,6 @@ summary: Publishing
 - [Highland Perthshire Birdbox project press release (second)](https://www.pkct.org/news/bird-education-pack-for-primary-schools-now-live) (writing and publishing)
 - [Highland Perthshire Birdbox project press release (first)](https://www.pkct.org/news/bird-boxes-take-off-in-kinloch-rannoch) (writing and publishing)
 - [The Gannochy Trust, Quarrymill Woodland interpretation](https://www.gannochytrust.org.uk/news/quarrymill-woodland-park-benefits-from-accessibility-upgrade/) (project management, copy and co-editing)
+- [River Tay Way](https://www.pkct.org/news/tourism-boost-for-aberfeldy-as-new-welfare-facility-opens-on-river-tay) (various press release contributions, interpretation copy and graphic design) [1](/panel-render-option.png) [2](/rtw-pdf-font-emd.pdf)
 - Coronation Corner planning applications, on behalf of Blairgowrie in Bloom
 
