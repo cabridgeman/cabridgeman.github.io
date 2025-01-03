@@ -13,3 +13,8 @@ I hold an MSc in Data Science for Policymaking from the University of Strathclyd
 I have experience in project management, statistical reporting, publishing and public relations at the [Cabinet Office](https://www.gov.uk/government/organisations/cabinet-office), [Perth and Kinross Council](https://www.pkc.gov.uk/), [Social Europe](https://socialeurope.eu/) and [IPS-Journal](https://www.ips-journal.eu/). 
 
 For business enquiries, please email me at [christopherabridgeman@gmail.com](mailto:christopherabridgeman@gmail.com).
+
+
+
+
+
