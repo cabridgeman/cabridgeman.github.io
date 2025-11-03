@@ -7,7 +7,9 @@ body {
 
 /* header and footer areas */
 .menu { padding: 0; }
-.menu li { display: inline-block; }
+.menu li { display: inline-block; 
+         margin-left: 4px;
+         margin-right: 4px}
 .article-meta, .menu a {
   text-decoration: none;
   background: #eee;
@@ -49,3 +51,4 @@ table {
 table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
 thead, tfoot, tr:nth-child(even) { background: #eee; }
+
