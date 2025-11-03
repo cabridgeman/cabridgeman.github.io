@@ -8,8 +8,8 @@ menu:
     - name: Home
       url: ""
       weight: 1
-    - name: Information Technology
-      url: "it/"
+    - name: Data
+      url: "data/"
       weight: 2
     - name: Publishing
       url: "publishing/"
@@ -21,4 +21,5 @@ menu:
 
 params:
   description: "A website built through Hugo and blogdown."
+
   footer: "&copy; Christy Bridgeman {Year} | [GitHub](https://github.com/caBridgeman) | [LinkedIn](https://www.linkedin.com/in/Christy-EB)"
