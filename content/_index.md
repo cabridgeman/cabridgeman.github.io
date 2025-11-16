@@ -12,7 +12,13 @@ I hold an MSc in Data Science for Policymaking from the University of Strathclyd
 
 I have experience in research, data analysis and communications at [Aberdeen City Council](https://www.aberdeencity.gov.uk/), the [Cabinet Office](https://www.gov.uk/government/organisations/government-people-group), [Perth and Kinross Council](https://www.pkc.gov.uk/) and [Social Europe](https://socialeurope.eu/). 
 
+#### Tech Competencies
+R, Scikit-learn, Keras and TensorFlow, Power BI, Excel, DAX, Power Query, SQL, GIS, Wordpress, web development
+
+For Community Planning Aberdeen enquiries, please email me at [cbridgeman@aberdeencity.gov.uk](mailto:cbridgeman@aberdeencity.gov.uk).
+
 For business enquiries, please email me at [christopherabridgeman@gmail.com](mailto:christopherabridgeman@gmail.com).
+
 
 
 
