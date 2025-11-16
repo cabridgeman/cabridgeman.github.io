@@ -15,9 +15,11 @@ I have experience in research, data analysis and communications at [Aberdeen Cit
 #### Tech Competencies
 ![r](/r.png) R &nbsp; &nbsp; ![scikit](/scikit.png)  Scikit-learn &nbsp; &nbsp; ![keras](/keras.png)  Keras &nbsp; &nbsp; ![tensorflow](/tensorflow.png)   TensorFlow &nbsp; &nbsp; ![powerbi](/powerbi.png)   Power BI &nbsp; &nbsp; ![excel](/excel.png)   Excel  &nbsp; &nbsp;![powerbi](/powerbi.png)   DAX &nbsp; &nbsp; ![powerbi](/powerbi.png)   Power Query &nbsp; &nbsp; ![code](/code.png)   SQL &nbsp; &nbsp; ![code](/code.png)  GIS &nbsp; &nbsp; ![wordpress](/wordpress.png) Wordpress &nbsp; &nbsp; ![code](/code.png) Web Development
 
+#### Contact
 For Community Planning Aberdeen enquiries, please email me at [cbridgeman@aberdeencity.gov.uk](mailto:cbridgeman@aberdeencity.gov.uk).
 
 For business enquiries, please email me at [christopherabridgeman@gmail.com](mailto:christopherabridgeman@gmail.com).
+
 
 
 
