@@ -21,6 +21,8 @@ summary: Data
 - Perth and Kinross Countryside Trust Engagement and Education report (qualitative research and data visualisations, co-editor)
 
 ## Survey
+- [City Voice 54 report](https://communityplanningaberdeen.org.uk/wp-content/uploads/2026/01/CV54-Report.pdf)
+- [City Voice 54 newsletter](https://communityplanningaberdeen.org.uk/wp-content/uploads/2026/01/CV54-Newsletter.pdf)
 - [City Voice 53 report](https://communityplanningaberdeen.org.uk/wp-content/uploads/2025/10/CV53-Report-Final.pdf)
 - [City Voice 53 newsletter](https://communityplanningaberdeen.org.uk/wp-content/uploads/2025/10/CV-53-Newsletter-Travel-and-Transport-Final.pdf)
 
@@ -28,5 +30,6 @@ summary: Data
  - [Cateran Trail Access Map](https://cabridgeman.github.io/cateran-trail-web-map/) for [NatureScot](https://www.nature.scot/) ([Scotland's Great Trails](https://www.scotlandsgreattrails.com/))
  - [River Tay Way Access Map](https://cabridgeman.github.io/cateran-trail-web-map/)
 - [Kirkmichael Path Network spatial data](/kirkmichael.pdf)
+
 
 
