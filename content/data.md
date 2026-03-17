@@ -20,9 +20,15 @@ summary: Data
 - [Worker Representation in Policymaking and Support for European Integration](/ugdiss.pdf) (longitudinal multiple linear regression and visualisation)
 - Perth and Kinross Countryside Trust Engagement and Education report (qualitative research and data visualisations, co-editor)
 
-## Survey
+## Survey & Consultation
+- [Aberdeen City Council Local Outcome Improvement Plan 2026-36 consultation](https://aberdeen2036consultation.commonplace.is/)
+- [Aberdeen City Council Locality Plans 2026-36 consultation](https://aberdeen2036consultation.commonplace.is/)
+- [Aberdeen City Council Children’s Services Plan 2026-31 consultation](https://aberdeen2036consultation.commonplace.is/)
+- [City Voice 55 report](https://communityplanningaberdeen.org.uk/wp-content/uploads/2026/03/v1-CV55-Report.pdf)
+- [City Vocie 55 newsletter](https://communityplanningaberdeen.org.uk/wp-content/uploads/2026/03/v1-CV55-Newsletter-Economy.pdf)
 - [City Voice 54 report](https://communityplanningaberdeen.org.uk/wp-content/uploads/2026/01/CV54-Report.pdf)
 - [City Voice 54 newsletter](https://communityplanningaberdeen.org.uk/wp-content/uploads/2026/01/CV54-Newsletter.pdf)
+- [City Voice 54 questionnaire](https://communityplanningaberdeen.org.uk/wp-content/uploads/2026/01/54th-City-Voice-Questionnaire.pdf)
 - [City Voice 53 report](https://communityplanningaberdeen.org.uk/wp-content/uploads/2025/10/CV53-Report-Final.pdf)
 - [City Voice 53 newsletter](https://communityplanningaberdeen.org.uk/wp-content/uploads/2025/10/CV-53-Newsletter-Travel-and-Transport-Final.pdf)
 
